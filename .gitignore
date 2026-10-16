@@ -1,0 +1,18 @@
+# Databases (Keeps your personal data safe)
+*.db
+*.sqlite3
+
+# PyInstaller (Hides the heavy compiled .exe files and build folders)
+build/
+dist/
+*.spec
+
+# Python Virtual Environments (Hides the massive background folders)
+__pycache__/
+venv/
+env/
+.venv/
+
+# IDE Settings (Hides PyCharm/VSCode layout settings)
+.idea/
+.vscode/
